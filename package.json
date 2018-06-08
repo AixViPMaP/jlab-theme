@@ -1,0 +1,61 @@
+{
+  "name": "@jupyterlab/theme-aixvipmap-extension",
+  "version": "0.16.2",
+  "description": "JupyterLab - AixViPMaP Theme",
+  "homepage": "http://www.aixvipmap.de",
+  "bugs": {
+    "url": "https://github.com/AixViPMaP"
+  },
+  "license": "Proprietary",
+  "author": "Lukas Koschmieder",
+  "files": [
+    "lib/*.d.ts",
+    "lib/*.js.map",
+    "lib/*.js",
+    "static/*.css",
+    "static/*.ttf",
+    "static/*.eot",
+    "static/*.woff",
+    "static/*.woff2"
+  ],
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "directories": {
+    "lib": "lib/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AixViPMaP/jlab-theme.git"
+  },
+  "scripts": {
+    "build": "run-p build:**",
+    "build:typescript": "tsc",
+    "build:webpack": "webpack",
+    "clean": "rimraf lib",
+    "prepublishOnly": "npm run build",
+    "watch": "run-p watch:**",
+    "watch:typescript": "tsc -w",
+    "watch:webpack": "webpack --watch"
+  },
+  "dependencies": {
+    "@jupyterlab/application": "^0.16.2",
+    "@jupyterlab/apputils": "^0.16.3",
+    "font-awesome": "~4.7.0"
+  },
+  "devDependencies": {
+    "css-loader": "~0.28.7",
+    "extract-text-webpack-plugin": "~2.1.2",
+    "npm-run-all": "~4.1.1",
+    "rimraf": "~2.6.2",
+    "svg-url-loader": "~2.3.1",
+    "svgo": "~1.0.4",
+    "svgo-loader": "~2.1.0",
+    "typescript": "~2.8.3",
+    "url-loader": "~0.5.9",
+    "webpack": "~2.7.0"
+  },
+  "jupyterlab": {
+    "extension": true,
+    "themeDir": "static"
+  }
+}

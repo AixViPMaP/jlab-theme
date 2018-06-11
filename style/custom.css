@@ -1,0 +1,13 @@
+/*-----------------------------------------------------------------------------
+| Copyright (c) Lukas Koschmieder, Alper Topaloglu.
+| All rights reserved.
+|----------------------------------------------------------------------------*/
+
+#jp-top-panel, #jp-MainMenu{
+	background: rgb(0,84,159); /* RWTH Blau */
+	color:white;
+}
+
+.p-MenuBar-item.p-mod-active{
+	color:black;
+}

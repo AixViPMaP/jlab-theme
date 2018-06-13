@@ -12,11 +12,7 @@ A JupyterLab theme extension which provides the AixViPMaP theme.
 jupyter labextension install .
 ```
 
-Use Advanced Settings Editor in JupyterLab to set theme.
-
-```json
-{"theme":"JupyterLab AixViPMaP"}
-```
+In JupyterLab select **Settings > JupyterLab Theme > JupyterLab AixViPMaP** to enable the theme.
 
 ## Development
 

@@ -4,7 +4,7 @@
 |----------------------------------------------------------------------------*/
 
 #jp-top-panel, #jp-MainMenu{
-	background: rgb(0,84,159); /* RWTH Blau */
+	background: var(--md-blue-700);
 	color:white;
 }
 

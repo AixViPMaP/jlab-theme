@@ -10,8 +10,9 @@ A JupyterLab theme extension which provides the AixViPMaP theme.
 
 ```bash 
 npm install
-npm run build 
-jupyter labextension install . 
+npm run build
+npm pack ./
+jupyter labextension install *.tgz
 ```
 
 In JupyterLab select **Settings > JupyterLab Theme > JupyterLab AixViPMaP** to enable the theme.
@@ -23,7 +24,7 @@ In JupyterLab select **Settings > JupyterLab Theme > JupyterLab AixViPMaP** to e
 ```bash
 npm install
 npm run build
-jupyter labextension link .
+jupyter labextension install .
 ```
 
 ### Rebuild

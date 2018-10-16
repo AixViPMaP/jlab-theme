@@ -40,13 +40,13 @@
      inkscape:window-height="1138"
      id="namedview42"
      showgrid="false"
-     inkscape:zoom="4.627451"
-     inkscape:cx="19.5"
-     inkscape:cy="25.5"
+     inkscape:zoom="18.509804"
+     inkscape:cx="22.307511"
+     inkscape:cy="26.170383"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg40" />
+     inkscape:current-layer="logo" />
   <title
      id="title2">logo-5.svg</title>
   <desc
@@ -54,97 +54,108 @@
   <g
      id="Canvas"
      transform="translate(-1638 -2281)"
-     figma:type="canvas"
-     style="fill:#ffffff">
+     figma:type="canvas">
     <g
        id="logo"
-       style="mix-blend-mode:normal;fill:#ffffff"
+       style="mix-blend-mode:normal;"
        figma:type="group">
       <g
          id="g"
-         style="mix-blend-mode:normal;fill:#ffffff"
+         style="mix-blend-mode:normal;"
          figma:type="group">
         <g
            id="path"
-           style="mix-blend-mode:normal;fill:#ffffff"
+           style="mix-blend-mode:normal;"
            figma:type="group">
           <g
              id="path7 fill"
-             style="mix-blend-mode:normal;fill:#ffffff"
+             style="mix-blend-mode:normal;"
              figma:type="vector">
             <use
                xlink:href="#path0_fill"
                transform="translate(1669.3 2281.31)"
-               fill="#767677"
                style="mix-blend-mode:normal;fill:#ffffff"
-               id="use6" />
+               id="use6"
+               fill="#767677" />
           </g>
         </g>
         <g
            id="g13"
-           style="mix-blend-mode:normal;fill:#ffffff"
+           style="mix-blend-mode:normal;"
            figma:type="group">
           <g
              id="path8 fill"
-             style="mix-blend-mode:normal;fill:#ffffff"
+             style="mix-blend-mode:normal;"
              figma:type="vector">
             <use
                xlink:href="#path1_fill"
                transform="translate(1639.74 2311.98)"
-               fill="#F37726"
                style="mix-blend-mode:normal;fill:#ffffff"
-               id="use10" />
+               id="use10"
+               fill="#F37726" />
           </g>
         </g>
         <g
            id="g18"
-           style="mix-blend-mode:normal;fill:#ffffff"
+           style="mix-blend-mode:normal;"
            figma:type="group">
           <g
              id="path9 fill"
-             style="mix-blend-mode:normal;fill:#ffffff"
+             style="mix-blend-mode:normal;"
              figma:type="vector">
             <use
                xlink:href="#path2_fill"
                transform="translate(1639.73 2285.48)"
-               fill="#F37726"
                style="mix-blend-mode:normal;fill:#ffffff"
-               id="use15" />
+               id="use15"
+               fill="#F37726" />
           </g>
         </g>
         <g
            id="g23"
-           style="mix-blend-mode:normal;fill:#ffffff"
+           style="mix-blend-mode:normal;"
            figma:type="group">
           <g
              id="path10 fill"
-             style="mix-blend-mode:normal;fill:#ffffff"
+             style="mix-blend-mode:normal;"
              figma:type="vector">
             <use
                xlink:href="#path3_fill"
                transform="translate(1639.8 2323.81)"
-               fill="#989798"
                style="mix-blend-mode:normal;fill:#ffffff"
-               id="use20" />
+               id="use20"
+               fill="#989798" />
           </g>
         </g>
         <g
            id="g28"
-           style="mix-blend-mode:normal;fill:#ffffff"
+           style="mix-blend-mode:normal;"
            figma:type="group">
           <g
              id="path11 fill"
-             style="mix-blend-mode:normal;fill:#ffffff"
+             style="mix-blend-mode:normal;"
              figma:type="vector">
             <use
                xlink:href="#path4_fill"
                transform="translate(1638.36 2286.06)"
-               fill="#6F7070"
                style="mix-blend-mode:normal;fill:#ffffff"
-               id="use25" />
+               id="use25"
+               fill="#6F7070" />
           </g>
         </g>
       </g>
+      <path
+         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke-width:0.05402542"
+         d="M 4.6077328,50.161121 C 2.9590383,49.71545 1.8290463,48.24632 1.8328137,46.55338 c 0.00135,-0.605742 0.1229017,-1.105256 0.4109597,-1.688801 0.4215044,-0.853878 1.2470597,-1.569247 2.1272972,-1.843367 1.0000224,-0.311424 1.9271519,-0.226665 2.8903601,0.264237 0.5116143,0.260746 1.222745,0.972286 1.4973314,1.498192 0.5288889,1.012965 0.578843,2.268532 0.1305827,3.282128 -0.4144312,0.937102 -1.216021,1.672797 -2.2041166,2.022926 -0.5444531,0.192925 -1.5075193,0.2265 -2.0774954,0.07243 z"
+         id="path869"
+         inkscape:connector-curvature="0"
+         transform="translate(1638,2281)" />
+      <path
+         style="opacity:0;fill:#f9f9f9;fill-opacity:1;stroke-width:0.05402542"
+         d="M 4.6077328,50.161121 C 2.9590383,49.71545 1.8290463,48.24632 1.8328137,46.55338 c 0.00135,-0.605742 0.1229017,-1.105256 0.4109597,-1.688801 0.4215044,-0.853878 1.2470597,-1.569247 2.1272972,-1.843367 1.0000224,-0.311424 1.9271519,-0.226665 2.8903601,0.264237 0.5116143,0.260746 1.222745,0.972286 1.4973314,1.498192 0.5288889,1.012965 0.578843,2.268532 0.1305827,3.282128 -0.4144312,0.937102 -1.216021,1.672797 -2.2041166,2.022926 -0.5444531,0.192925 -1.5075193,0.2265 -2.0774954,0.07243 z"
+         id="path871"
+         inkscape:connector-curvature="0"
+         transform="translate(1638,2281)" />
     </g>
   </g>
   <defs
@@ -165,4 +176,27 @@
        id="path4_fill"
        d="M 2.27471 4.39629C 1.84363 4.41508 1.41671 4.30445 1.04799 4.07843C 0.679268 3.8524 0.385328 3.52114 0.203371 3.12656C 0.0214136 2.73198 -0.0403798 2.29183 0.0258116 1.86181C 0.0920031 1.4318 0.283204 1.03126 0.575213 0.710883C 0.867222 0.39051 1.24691 0.164708 1.66622 0.0620592C 2.08553 -0.0405897 2.52561 -0.0154714 2.93076 0.134235C 3.33591 0.283941 3.68792 0.551505 3.94222 0.90306C 4.19652 1.25462 4.34169 1.67436 4.35935 2.10916C 4.38299 2.69107 4.17678 3.25869 3.78597 3.68746C 3.39516 4.11624 2.85166 4.37116 2.27471 4.39629L 2.27471 4.39629Z" />
   </defs>
+  <path
+     style="opacity:0;fill:#ffffff;fill-opacity:1"
+     id="path857"
+     ry="0.45921609"
+     rx="0.72934324"
+     cy="6.1859112"
+     cx="1.7558262" />
+  <path
+     style="opacity:0;fill:#ffffff;fill-opacity:1"
+     id="path859"
+     sodipodi:type="arc"
+     sodipodi:cx="0.64830518"
+     sodipodi:cy="5.4295554"
+     sodipodi:rx="2.7012713"
+     sodipodi:ry="2.7282839"
+     sodipodi:start="0"
+     sodipodi:end="1.3642576"
+     d="M 3.3495765,5.4295554 A 2.7012713,2.7282839 0 0 1 1.2022641,8.099854 L 0.64830518,5.4295554 Z" />
+  <path
+     style="opacity:0;fill:#ffffff;fill-opacity:1;stroke-width:0.05402542"
+     d="M 33.583746,6.1528558 C 32.619329,5.9085993 31.848739,5.2118794 31.492565,4.2621383 31.325619,3.8169751 31.28663,3.0842994 31.40488,2.6143629 c 0.269913,-1.0726616 1.090921,-1.91797239 2.120705,-2.18348112 0.999311,-0.25765182 2.024328,0.0307236 2.779543,0.78198902 1.270591,1.2639465 1.099834,3.416939 -0.353242,4.4538325 -0.673455,0.4805673 -1.621636,0.6752182 -2.36814,0.4861525 z"
+     id="path861"
+     inkscape:connector-curvature="0" />
 </svg>

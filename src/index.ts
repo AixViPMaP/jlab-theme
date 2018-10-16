@@ -3,14 +3,9 @@
 | All rights reserved.
 |----------------------------------------------------------------------------*/
 
-import {
-  JupyterLab, JupyterLabPlugin
-} from '@jupyterlab/application';
+import { JupyterLab, JupyterLabPlugin } from '@jupyterlab/application';
 
-import {
-  IThemeManager
-} from '@jupyterlab/apputils';
-
+import { IThemeManager } from '@jupyterlab/apputils';
 
 /**
  * A plugin for the AixViPMaP Theme.
@@ -23,12 +18,12 @@ const plugin: JupyterLabPlugin<void> = {
 
     manager.register({
       name: 'JupyterLab AixViPMaP',
+      isLight: true,
       load: () => manager.loadCSS(style),
       unload: () => Promise.resolve(undefined)
     });
   },
   autoStart: true
 };
-
 
 export default plugin;

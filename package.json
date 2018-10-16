@@ -1,6 +1,6 @@
 {
   "name": "@jupyterlab/theme-aixvipmap-extension",
-  "version": "0.16.2",
+  "version": "0.19.1",
   "description": "JupyterLab - AixViPMaP Theme",
   "homepage": "http://www.aixvipmap.de",
   "bugs": {
@@ -54,6 +54,9 @@
     "typescript": "~2.8.3",
     "url-loader": "~0.5.9",
     "webpack": "~2.7.0"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "jupyterlab": {
     "extension": true,

@@ -38,9 +38,9 @@
     "watch:webpack": "webpack --watch"
   },
   "dependencies": {
-    "@jupyterlab/application": ">=0.16.2",
-    "@jupyterlab/apputils": ">=0.16.3",
-    "font-awesome": ">=4.7.0"
+    "@jupyterlab/application": "^0.19.1",
+    "@jupyterlab/apputils": "^0.19.1",
+    "font-awesome": "~4.7.0"
   },
   "devDependencies": {
     "style-loader": "~0.22.1",

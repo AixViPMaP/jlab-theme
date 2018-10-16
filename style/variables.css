@@ -1,6 +1,6 @@
 /*-----------------------------------------------------------------------------
-| Copyright (c) Lukas Koschmieder, Alper Topaloglu.
-| All rights reserved.
+| Copyright (c) Jupyter Development Team.
+| Distributed under the terms of the Modified BSD License.
 |----------------------------------------------------------------------------*/
 
 /*
@@ -25,7 +25,6 @@ all of MD as it is not optimized for dense, information rich UIs.
 */
 
 :root {
-	
   /* Elevation
    *
    * We style box-shadows using Material Design's idea of elevation. These particular numbers are taken from here:

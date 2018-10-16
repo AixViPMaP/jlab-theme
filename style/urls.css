@@ -3,9 +3,7 @@
 | Distributed under the terms of the Modified BSD License.
 |----------------------------------------------------------------------------*/
 
-
 :root {
-	
   /* Images
 
   These images are included with JupyterLab for showing the Project Jupyter logo
@@ -28,7 +26,7 @@
 
   --jp-ui-select-caret: url('icons/md/down_caret.svg');
 
-  /* Icons used in the application.   */
+  /* Icons used in the application. */
 
   --jp-about-header-logo: url('icons/jupyter/jupyter.svg');
   --jp-about-header-wordmark: url('images/jupyterlab-wordmark.svg');

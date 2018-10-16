@@ -1,14 +1,13 @@
-/*-----------------------------------------------------------------------------
-| Copyright (c) Lukas Koschmieder.
-| All rights reserved.
-|----------------------------------------------------------------------------*/
+// Copyright (c) Jupyter Development Team.
+// Distributed under the terms of the Modified BSD License.
+// Modified by Lukas Koschmieder.
 
 import { JupyterLab, JupyterLabPlugin } from '@jupyterlab/application';
 
 import { IThemeManager } from '@jupyterlab/apputils';
 
 /**
- * A plugin for the AixViPMaP Theme.
+ * A plugin for the Jupyter Light Theme. Modified for AixViPMaP.
  */
 const plugin: JupyterLabPlugin<void> = {
   id: '@jupyterlab/theme-aixvipmap-extension:plugin',

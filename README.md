@@ -11,6 +11,7 @@ A JupyterLab theme extension which provides the AixViPMaP theme.
 ```bash 
 npm install
 npm run build
+npm run build:webpack
 npm pack ./
 jupyter labextension install *.tgz
 ```
@@ -33,3 +34,10 @@ jupyter labextension install .
 npm run build
 jupyter lab build
 ```
+
+## Updating jlab-theme
+Download the **JupyterLab** source code from GitHub (https://github.com/jupyterlab/jupyterlab). 
+
+Copy the content of *compilerOptions* from *tsconfigbase.json* into *tsconfig.json* under the same *compilerOptions* in the **jlab-theme**. 
+
+Then delete all lines refering to files outside of the **jlab-theme** in both files *tsconfig.json* and *tdoptions.json*.
